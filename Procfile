@@ -1,0 +1,1 @@
+web: gunicorn medistore.wsgi --log-file -
